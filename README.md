@@ -1,1 +1,2 @@
 # Classification-of-thyroid
+In this project, Dataset consists of thyroid scan images. Dataset is taken from open source repository. It consists of only 150 images — 75 images of each. It is very tough to train because images is very low. so that i created some duplication the images. Finally I got 300 images- 150 images for each. But Accuracy is very low 62% . we conclude that, In this Thyroid classification project, we didnot properly train our model using low images. Still suppose we got more images, definetely we will train better way and got good accuracy.
